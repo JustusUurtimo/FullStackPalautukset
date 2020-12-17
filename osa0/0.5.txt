@@ -1,0 +1,9 @@
+title Untitled
+
+
+Selain->Palvelin: HTTP GET /spa
+Palvelin-->Selain: HTML-koodi
+Selain->Palvelin: HTTP GET /main.css
+Palvelin-->Selain: main.css
+Selain->Palvelin: HTTP GET /spa.js
+Palvelin-->Selain: spa.js
